@@ -1,6 +1,7 @@
 @media (max-width: 670px) {
   header{
     height: 50px;
+    background-color: red;
   }
 
   .header-left{
